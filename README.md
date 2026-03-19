@@ -2,20 +2,20 @@
 
 <div align="center">
 
-# ?? GoldenVisaKW
+# 🌍 GoldenVisaKW
 
-### Global Investment � Residency � Citizenship Platform
+### Global Investment • Residency • Citizenship Platform
 
 A modern **investment, residency and citizenship portal** designed to present international opportunities with a premium corporate experience.
 
-?? **Live Demo**  
+🌐 **Live Demo**  
 https://goldenvisakw.com
 
 </div>
 
 ---
 
-# ? Overview
+# ✨ Overview
 
 **GoldenVisaKW** is a modern corporate web platform created for international investors and clients who want to explore:
 
@@ -30,9 +30,9 @@ Its main goal is to provide a strong digital showcase for consultancy, investmen
 
 ---
 
-# ?? Features
+# 🚀 Features
 
-?? **Country & Program Pages**
+🏡 **Country & Program Pages**
 
 Detailed pages for citizenship, residency, and investment programs, including:
 
@@ -43,7 +43,7 @@ Detailed pages for citizenship, residency, and investment programs, including:
 
 ---
 
-?? **Corporate Presentation Structure**
+💼 **Corporate Presentation Structure**
 
 A premium layout designed for trust and conversion:
 
@@ -54,7 +54,7 @@ A premium layout designed for trust and conversion:
 
 ---
 
-?? **Investor-Focused Experience**
+📊 **Investor-Focused Experience**
 
 Each listing is structured to support decision-making:
 
@@ -64,7 +64,7 @@ Each listing is structured to support decision-making:
 
 ---
 
-?? **Lead Generation System**
+📩 **Lead Generation System**
 
 Built to collect potential client inquiries through:
 
@@ -75,7 +75,7 @@ Built to collect potential client inquiries through:
 
 ---
 
-?? **Multi-Language Ready Architecture**
+🌐 **Multi-Language Ready Architecture**
 
 The system is prepared for international expansion with support for:
 
@@ -85,7 +85,7 @@ The system is prepared for international expansion with support for:
 
 ---
 
-?? **Responsive Design**
+📱 **Responsive Design**
 
 Optimized for:
 
@@ -95,7 +95,7 @@ Optimized for:
 
 ---
 
-? **Performance-Focused Build**
+⚡ **Performance-Focused Build**
 
 The project is structured to support:
 
@@ -106,7 +106,7 @@ The project is structured to support:
 
 ---
 
-# ?? Tech Stack
+# 🛠 Tech Stack
 
 | Technology | Purpose |
 | ---------- | ------- |
@@ -121,33 +121,33 @@ The platform is developed with a clean and scalable architecture suitable for lo
 
 ---
 
-# ?? Project Structure
+# 📂 Project Structure
 
 ```text
 project-root/
--
-+�� app/
-+�� bootstrap/
-+�� config/
-+�� database/
-+�� public/
--   +�� assets/
--   +�� images/
--   L�� index.php
--
-+�� resources/
--   +�� views/
--   +�� css/
--   L�� js/
--
-+�� routes/
-+�� storage/
-L�� README.md
+│
+├── app/
+├── bootstrap/
+├── config/
+├── database/
+├── public/
+│   ├── assets/
+│   ├── images/
+│   └── index.php
+│
+├── resources/
+│   ├── views/
+│   ├── css/
+│   └── js/
+│
+├── routes/
+├── storage/
+└── README.md
 ```
 
 ---
 
-# ?? Core Modules
+# 📈 Core Modules
 
 GoldenVisaKW includes the following core modules:
 
@@ -161,7 +161,7 @@ GoldenVisaKW includes the following core modules:
 
 ---
 
-# ?? Target Audience
+# 🎯 Target Audience
 
 This project is designed for:
 
@@ -173,7 +173,7 @@ This project is designed for:
 
 ---
 
-# ?? Security & Architecture
+# 🔐 Security & Architecture
 
 The platform is built with a scalable and secure foundation, including:
 
@@ -185,14 +185,14 @@ The platform is built with a scalable and secure foundation, including:
 
 ---
 
-# ?? Future Improvements
+# 🔮 Future Improvements
 
 Planned improvements for the platform:
 
 * ROI calculation tools
 * dynamic currency display
 * advanced admin panel modules
-* 360� virtual tour integration
+* 360° virtual tour integration
 * multilingual content management
 * investor dashboard features
 * enhanced reporting tools
@@ -201,9 +201,9 @@ Planned improvements for the platform:
 
 ---
 
-# ????? Developer
+# 👩‍💻 Developer
 
-Berfin Nida �zt�rk
+Berfin Nida Öztürk
 
 GitHub  
 https://github.com/berfinida
@@ -213,6 +213,6 @@ https://www.linkedin.com/in/berfin-nida-%C3%B6zt%C3%BCrk-6a12131b7/
 
 ---
 
-# ?? License
+# 📄 License
 
 MIT License
